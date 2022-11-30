@@ -1,4 +1,4 @@
-# ![LMMS Logo](https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg) LMMS
+# ![LMMS Logo](https://raw.githubusercontent.com/LMMS/artwork/master/Icon%20%26%20Mimetypes/lmms-64x64.svg) LMMSF
 
 [![Build status](https://circleci.com/gh/LMMS/lmms.svg?style=shield)](https://circleci.com/gh/LMMS/lmms)
 [![Latest stable release](https://img.shields.io/github/release/LMMS/lmms.svg?maxAge=3600)](https://lmms.io/download)
@@ -8,10 +8,10 @@
 
 **New PRs may be affected by ongoing reorganization ([#5592](https://github.com/LMMS/lmms/issues/5592)). Please be prepared to rebase your PR as necessary.**
 
-What is LMMS?
+What is LMMSF?
 --------------
 
-LMMS is a free cross-platform alternative to commercial programs like
+LMMSF (Linux MultiMedia Studio Fork) is a free cross-platform alternative to commercial programs like
 FL Studio®, which allow you to produce music with your computer. This includes
 the creation of melodies and beats, the synthesis and mixing of sounds, and
 arranging of samples. You can have fun with your MIDI-keyboard and much more;
@@ -43,7 +43,7 @@ See [Compiling LMMS](https://github.com/LMMS/lmms/wiki/Compiling) on our
 wiki for information on how to build LMMS.
 
 
-Join LMMS-development
+Join LMMSF-development
 ----------------------
 
 If you are interested in LMMS, its programming, artwork, testing, writing demo
